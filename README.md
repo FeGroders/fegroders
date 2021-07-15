@@ -17,11 +17,11 @@
     <a href="https://open.spotify.com/user/12166822234">
         <img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />        
     </a>&nbsp;&nbsp;<br/>
-    📫 Contact me: <a href='mailto:alexandreslima@outlook.com'>fernandogroder@gmail.com</a>
+    📫 Contact me: <a href='mailto:fernandogroder@gmail.com'>fernandogroder@gmail.com</a>
 </p>
 
 <p align='center'>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=GrodrZ&theme=gruvbox&show_icons=true)" width="350"></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=fegroders&theme=gruvbox&show_icons=true)" width="350"></a>
 </p>
 
 <h3 align='center'>
@@ -30,7 +30,7 @@
     <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/Delphi-B22222?style=for-the-badge&logo=delphi&logoColor=white"></a>
     <a href="#"><img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></a><br/><br/>
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrodrZ&theme=gruvbox&layout=compact" width="350"></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fegroders&theme=gruvbox&layout=compact" width="350"></a>
 </h3>
 
 <!--<h3 align='center'>
@@ -64,7 +64,7 @@
 </p>
 
 <p align='center'>
-    <a href="#"><img src="https://badges.pufler.dev/visits/GrodrZ/GrodrZ"></a>
+    <a href="#"><img src="https://badges.pufler.dev/visits/fegroders/fegroders"></a>
 </p>
 
 <details>
