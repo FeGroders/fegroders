@@ -18,6 +18,24 @@
 📆 2020 - ~2025\
 📍 **University of Taquari Valley (UNIVATES)** - Lajeado/RS, Brazil
 
+## Languages
+
+<p align="center">
+    <img src="https://img.shields.io/badge/-Python-000?&logo=python&labelColor=00B7ED&color=00B7ED&logoColor=1eafcc"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-Java-000?&logo=java&labelColor=ED8B00&color=ED8B00&logoColor=F7DF1E"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-Delphi-000?&logo=delphi&labelColor=B22222&color=B22222&logoColor=bc252a"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-SQLite-000?&logo=SQLite&labelColor=1F2430&color=1F2430&logoColor=54ADE1"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-MySQL-000?&logo=mySQL&labelColor=1F2430&color=1F2430&logoColor=82AE1B"></img> 
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-CSS3-000?&logo=css3&labelColor=1F2430&color=1F2430&logoColor=27AAE0"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-HTML5-000?&logo=html5&labelColor=1F2430&color=1F2430&logoColor=F1662A"></img>
+</p>
+
 
 ## Experience
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
