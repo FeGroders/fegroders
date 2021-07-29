@@ -19,6 +19,25 @@
 📍 **University of Taquari Valley (UNIVATES)** - Lajeado/RS, Brazil
 
 
+## Skills
+
+<p align="center">
+        <img src="https://img.shields.io/badge/-Delphi-000?&logo=delphi&labelColor=B22222&color=B22222&logoColor=ffffff"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-Python-000?&logo=python&labelColor=008cff&color=008cff&logoColor=ffffff"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-Java-000?&logo=java&labelColor=ff7a00&color=ff7a00&logoColor=ffffff"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-SQLite-000?&logo=SQLite&labelColor=008cff&color=008cff&logoColor=ffffff"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-MySQL-000?&logo=mySQL&labelColor=ff7a00&color=ff7a00&logoColor=ffffff"></img> 
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-CSS3-000?&logo=css3&labelColor=008cff&color=008cff&logoColor=ffffff"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-HTML5-000?&logo=html5&labelColor=ff7a00&color=ff7a00&logoColor=ffffff"></img>
+</p>
+
+
 ## Experience
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
@@ -28,6 +47,7 @@
 - 👨‍💻 **Software Developer**\
 📆 2021 - Moment\
 📍 **Office System** - Lajeado/RS, Brazil
+
 
 ## My Discord Server 
 
