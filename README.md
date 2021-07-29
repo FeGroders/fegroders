@@ -8,8 +8,8 @@
 
 📸 [Instagram](https://instagram.com/fegroders) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/fernandogroders) <br>
-🎧 [Spotify](https://open.spotify.com/user/12166822234)<br>
-🚀 [Site](https://fegroders.github.io) (Working on it..)<br>
+🎧 [Spotify](https://open.spotify.com/user/12166822234) <br>
+🚀 [Site](https://fegroders.github.io) <br>
 
 
 ## Education
