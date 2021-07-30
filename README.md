@@ -40,8 +40,8 @@
 
 ## Experience
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
-<img align="right" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Delphi-B22222?logo=delphi&logoColor=white" />
 
 - 👨‍💻 **Software Developer**\
