@@ -1,8 +1,7 @@
 ## Hello world! I'm Fernando! 👋
 
-🤖 Moved by coffe, music and crazy about mobile development and AI <br>
-📌 Based in Forquetinha, RS - Brazil 🇧🇷 <br>
-
+🤖 Crazy about mobile development and AI <br>
+📌 Based in Forquetinha, RS - Brazil
 
 ## You can find me here too 🌎
 
@@ -13,7 +12,25 @@
 
 ## Skills
 
-<p align="center">
+<p align=center>
+        <img src="https://img.shields.io/badge/-Delphi-000?&logo=delphi&labelColor=B22222&color=B22222&logoColor=ffffff"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-Python-000?&logo=python&labelColor=008cff&color=008cff&logoColor=ffffff"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-Java-000?&logo=java&labelColor=ff7a00&color=ff7a00&logoColor=ffffff"></img>
+&nbsp&nbsp
+<!--     <img src="https://img.shields.io/badge/-SQLite-000?&logo=SQLite&labelColor=008cff&color=008cff&logoColor=ffffff"></img>
+&nbsp&nbsp -->
+    <img src="https://img.shields.io/badge/-MySQL-000?&logo=mySQL&labelColor=ff7a00&color=ff7a00&logoColor=ffffff"></img> 
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-CSS3-000?&logo=css3&labelColor=008cff&color=008cff&logoColor=ffffff"></img>
+&nbsp&nbsp
+    <img src="https://img.shields.io/badge/-HTML5-000?&logo=html5&labelColor=ff7a00&color=ff7a00&logoColor=ffffff"></img>
+<br/><br/>    
+    <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=fegroders&theme=gruvbox&layout=compact" width="350">
+</p>
+
+<!-- <p align="center">
         <img src="https://img.shields.io/badge/-Delphi-000?&logo=delphi&labelColor=B22222&color=B22222&logoColor=ffffff"></img>
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/-Python-000?&logo=python&labelColor=008cff&color=008cff&logoColor=ffffff"></img>
@@ -29,9 +46,9 @@
     <img src="https://img.shields.io/badge/-HTML5-000?&logo=html5&labelColor=ff7a00&color=ff7a00&logoColor=ffffff"></img>
 <br/><br/>    
     <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=fegroders&theme=gruvbox&layout=compact" width="350">
-</p>
+</p> -->
 
-## Experience
+<!-- ## Experience
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white" />
@@ -45,7 +62,7 @@
 
 - 📖 **Software Engineering**\
 📆 2020 - ~2025\
-📍 **University of Taquari Valley (UNIVATES)** - Lajeado/RS, Brazil
+📍 **University of Taquari Valley (UNIVATES)** - Lajeado/RS, Brazil -->
 
 ## My Discord Server 
 
