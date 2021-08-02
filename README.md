@@ -11,14 +11,6 @@
 🎧 [Spotify](https://open.spotify.com/user/12166822234) <br>
 🚀 [Site](https://fegroders.github.io) <br>
 
-
-## Education
-
-- 📖 **Software Engineering**\
-📆 2020 - ~2025\
-📍 **University of Taquari Valley (UNIVATES)** - Lajeado/RS, Brazil
-
-
 ## Skills
 
 <p align="center">
@@ -39,7 +31,6 @@
     <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=fegroders&theme=gruvbox&layout=compact" width="350">
 </p>
 
-
 ## Experience
 <img align="right" src="https://img.shields.io/badge/Slack-4A154B?logo=slack&logoColor=white" />
 <img align="right" src="https://img.shields.io/badge/GitLab-330F63?logo=gitlab&logoColor=white" />
@@ -50,6 +41,11 @@
 📆 2021 - Moment\
 📍 **Office System** - Lajeado/RS, Brazil
 
+## Education
+
+- 📖 **Software Engineering**\
+📆 2020 - ~2025\
+📍 **University of Taquari Valley (UNIVATES)** - Lajeado/RS, Brazil
 
 ## My Discord Server 
 
