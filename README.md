@@ -5,7 +5,7 @@
 
 ## You can find me here too 🌎
 
-🚀 [Site](https://fegroders.github.io) <br>
+🚀 [Website](https://fegroders.github.io) <br>
 🎧 [Spotify](https://open.spotify.com/user/12166822234) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/fernandogroders) <br>
 📸 [Instagram](https://instagram.com/fegroders) <br>
