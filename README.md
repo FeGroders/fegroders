@@ -66,14 +66,11 @@
 ## My Discord Server 
 
 <a href="https://discord.gg/FNmJ5wd"><img align="right" src="https://img.shields.io/discord/755483507698172045" /></a>
-💻 [Programadores BR](https://discord.gg/FNmJ5wd)<br><br>
+💻 [Programadores BR](https://discord.gg/FNmJ5wd)
 
 ## Latest Posts
 
 <!-- devposts:start -->
-|                                                                                 📰 Name                                                                                 |   📅 Date  | ❤ Reactions | 💬 Comments |
-| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :---------: | :---------: |
-| [How to create a Twitter Bot using Python and Tweepy (Quick and Easy)](https://dev.to/fegroders/how-to-create-a-twitter-bot-using-python-and-tweepy-quick-and-easy-p1b) | 08/24/2021 |      11     |      0      |
 <!-- devposts:end -->
 
 
