@@ -73,7 +73,7 @@
 <!-- devposts:start -->
 |                                                                                 📰 Name                                                                                 |   📅 Date  | ❤ Reactions | 💬 Comments |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------: | :---------: | :---------: |
-| [How to create a Twitter Bot using Python and Tweepy (Quick and Easy)](https://dev.to/fegroders/how-to-create-a-twitter-bot-using-python-and-tweepy-quick-and-easy-p1b) | 08/24/2021 |      14     |      0      |
+| [How to create a Twitter Bot using Python and Tweepy (Quick and Easy)](https://dev.to/fegroders/how-to-create-a-twitter-bot-using-python-and-tweepy-quick-and-easy-p1b) | 08/24/2021 |      16     |      0      |
 <!-- devposts:end -->
 
 
