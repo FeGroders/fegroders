@@ -71,6 +71,8 @@
 ## Latest Posts
 
 <!-- devposts:start -->
+| 📰 Name | 📅 Date | ❤ Reactions | 💬 Comments |
+| :-----: | :-----: | :---------: | :---------: |
 <!-- devposts:end -->
 
 
