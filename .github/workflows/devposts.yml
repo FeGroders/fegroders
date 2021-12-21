@@ -14,3 +14,4 @@ jobs:
         with:
           dev_username: fegroders
           github_token: ${{ secrets.GH_TOKEN }}
+          posts_amount: 4
