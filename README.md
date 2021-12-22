@@ -1,15 +1,16 @@
-## Hello world! I'm Fernando! 👋
+### Hello world! I'm Fernando! 👋
 
 🤖 Crazy about mobile development and AI <br>
 📌 Based in Forquetinha, RS - Brazil
 
-## You can find me here too 🌎
+### You can find me here too 🌎
 
 🚀 [Website](https://fegroders.github.io) <br>
 🎧 [Spotify](https://open.spotify.com/user/12166822234) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/fernandogroders) <br>
 📸 [Instagram](https://instagram.com/fegroders) <br>
 📝 [My Articles](https://dev.to/fegroders) <br>
+💻 [Discord Server](https://discord.gg/FNmJ5wd)
 
 <!-- ## Skills
 
@@ -63,12 +64,12 @@
 📆 2020 - ~2025\
 📍 **University of Taquari Valley (UNIVATES)** - Lajeado/RS, Brazil -->
 
-## My Discord Server 
+<!-- ### My Discord Server 
 
 <a href="https://discord.gg/FNmJ5wd"><img align="right" src="https://img.shields.io/discord/755483507698172045" /></a>
-💻 [Programadores BR](https://discord.gg/FNmJ5wd)
+💻 [Programadores BR](https://discord.gg/FNmJ5wd) -->
 
-## Latest Posts
+### Latest Posts
 
 <!-- devposts:start -->
 <!-- devposts:end -->
