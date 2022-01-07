@@ -73,6 +73,7 @@
 ### Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to create a Twitter Bot using Python and Tweepy &lpar;Quick and Easy&rpar;](https://dev.to/fegroders/how-to-create-a-twitter-bot-using-python-and-tweepy-quick-and-easy-p1b)
 <!-- BLOG-POST-LIST:END -->
 
 
