@@ -72,8 +72,8 @@
 
 ### Latest Posts
 
-<!-- devposts:start -->
-<!-- devposts:end -->
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 <h5 align="center">
