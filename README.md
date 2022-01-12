@@ -1,7 +1,7 @@
 ### Hello world! I'm Fernando! 👋
 
 🤖 Crazy about mobile development and AI <br>
-📌 Based in Forquetinha, RS - Brazil
+📌 Based in Lajeado, RS - Brazil
 
 ### You can find me here too 🌎
 
