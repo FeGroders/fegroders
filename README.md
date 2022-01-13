@@ -11,7 +11,6 @@
 📸 [Instagram](https://instagram.com/fegroders) <br>
 📝 [My Articles](https://dev.to/fegroders) <br>
 💻 [Discord Server](https://discord.gg/FNmJ5wd) <br>
-🌐 [Subreddit](https://www.reddit.com/r/ProgramadoresBR/)
 
 <!-- ## Skills
 
