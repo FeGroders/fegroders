@@ -5,7 +5,7 @@
 
 ### You can find me here too 🌎
 
-🚀 [Website](https://fegroders.github.io) <br>
+🚀 [Website](https://portfolio-fegroders.vercel.app/) <br>
 🎧 [Spotify](https://open.spotify.com/user/12166822234) <br>
 💼 [LinkedIn](https://www.linkedin.com/in/fernandogroders) <br>
 📸 [Instagram](https://instagram.com/fegroders) <br>
@@ -74,8 +74,6 @@
 ### Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Test your English pronunciation with Pronounce](https://dev.to/fegroders/test-your-english-pronunciation-with-pronounce-3695)
-- [How to create a Twitter Bot using Python and Tweepy &lpar;Quick and Easy&rpar;](https://dev.to/fegroders/how-to-create-a-twitter-bot-using-python-and-tweepy-quick-and-easy-p1b)
 <!-- BLOG-POST-LIST:END -->
 
 
