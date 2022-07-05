@@ -29,7 +29,7 @@
 &nbsp&nbsp
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
 <br/><br/>    
-    <!--<img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=fegroders&theme=gruvbox&layout=compact" width="350"> -->
+    <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=fegroders&theme=gruvbox&layout=compact" width="350"> 
 </p>
 
 <!-- <p align="center">
@@ -81,5 +81,5 @@
 
 <h5 align="center">
   <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a><br>
-  <a href="#"><img src="https://badges.pufler.dev/visits/fegroders/fegroders"></a>
+  <a href="#"><img src="https://komarev.com/ghpvc/?username=fegroders&style=flat-square"></a>
 </h5>
