@@ -1,6 +1,6 @@
 ### Hello world! I'm Fernando! 👋
 
-🤖 Crazy about mobile development and AI <br>
+🤖 Focused on creating new things <br>
 📌 Based in Lajeado, RS - Brazil
 
 ### You can find me here too 🌎
@@ -74,8 +74,6 @@
 ### Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Test your English pronunciation with Pronounce](https://dev.to/fegroders/test-your-english-pronunciation-with-pronounce-3695)
-- [How to create a Twitter Bot using Python and Tweepy &lpar;Quick and Easy&rpar;](https://dev.to/fegroders/how-to-create-a-twitter-bot-using-python-and-tweepy-quick-and-easy-p1b)
 <!-- BLOG-POST-LIST:END -->
 
 
