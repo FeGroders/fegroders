@@ -80,6 +80,6 @@
 
 
 <h5 align="center">
-  <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a><br>
+  <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a><br><br>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=fegroders&style=flat-square"></a>
 </h5>
