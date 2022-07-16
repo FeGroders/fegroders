@@ -10,7 +10,7 @@
 💼 [LinkedIn](https://www.linkedin.com/in/fernandogroders) <br>
 📸 [Instagram](https://instagram.com/fegroders) <br>
 📝 [My Articles](https://dev.to/fegroders) <br>
-💻 [Discord Server](https://discord.gg/FNmJ5wd) <br>
+💻 [Discord Server](https://discord.gg/Mthzm3fDg8) <br>
 
 ## Skills
 
@@ -74,8 +74,6 @@
 ### Latest Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Test your English pronunciation with Pronounce](https://dev.to/fegroders/test-your-english-pronunciation-with-pronounce-3695)
-- [How to create a Twitter Bot using Python and Tweepy &lpar;Quick and Easy&rpar;](https://dev.to/fegroders/how-to-create-a-twitter-bot-using-python-and-tweepy-quick-and-easy-p1b)
 <!-- BLOG-POST-LIST:END -->
 
 
