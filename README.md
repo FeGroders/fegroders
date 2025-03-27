@@ -12,7 +12,7 @@
 📝 [My Articles](https://dev.to/fegroders) <br>
 💻 [Discord Server](https://discord.gg/Mthzm3fDg8) <br>
 
-## Skills
+<!-- ## Skills
 
 <p align=center>
         <img src="https://img.shields.io/badge/Delphi-E34F26?style=for-the-badge&logo=delphi&logoColor=white"></img>
@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"></img>
 <br/><br/>    
     <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=fegroders&theme=gruvbox&layout=compact" width="350"> 
-</p>
+</p> -->
 
 <!-- <p align="center">
         <img src="https://img.shields.io/badge/-Delphi-000?&logo=delphi&labelColor=B22222&color=B22222&logoColor=ffffff"></img>
@@ -71,15 +71,7 @@
 <a href="https://discord.gg/FNmJ5wd"><img align="right" src="https://img.shields.io/discord/755483507698172045" /></a>
 💻 [Programadores BR](https://discord.gg/FNmJ5wd) -->
 
-### Latest Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Test your English pronunciation with Pronounce](https://dev.to/fegroders/test-your-english-pronunciation-with-pronounce-3695)
-- [How to create a Twitter Bot using Python and Tweepy &lpar;Quick and Easy&rpar;](https://dev.to/fegroders/how-to-create-a-twitter-bot-using-python-and-tweepy-quick-and-easy-p1b)
-<!-- BLOG-POST-LIST:END -->
-
-
-<h5 align="center">
+<!-- <h5 align="center">
   <a href='https://stars.github.com/nominate/'>Nominate me to Github Stars ⭐</a><br><br>
   <a href="#"><img src="https://komarev.com/ghpvc/?username=fegroders&style=flat-square"></a>
-</h5>
+</h5> -->
